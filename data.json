@@ -1,0 +1,80 @@
+[
+  {
+    "username": "Jayash Saini",
+    "pin": 1234,
+    "accountNumber": 1122334455,
+    "accountType": "Savings",
+    "balance": 17556,
+    "mob": 9999999999,
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "address": "A-26 A",
+    "occupation": "Student"
+  },
+  {
+    "username": "User2",
+    "pin": "2222",
+    "accountNumber": 2222222222,
+    "accountType": "savings",
+    "balance": 13000,
+    "mob": "9898989898",
+    "country": "Algeria",
+    "state": "Boumerdès",
+    "city": "Tadmaït",
+    "address": "d-34df",
+    "occupation": "Bussiness"
+  },
+  {
+    "username": "Abhishek Gupta",
+    "pin": "9999",
+    "accountNumber": 4257997431,
+    "accountType": "savings",
+    "balance": 30000,
+    "mob": "8888888888",
+    "country": "Djibouti",
+    "state": "Dikhil Region",
+    "city": "Gâlâfi",
+    "address": "DD-78",
+    "occupation": "Docoter"
+  },
+  {
+    "username": "User5",
+    "pin": "5555",
+    "accountNumber": 8678975752,
+    "accountType": "savings",
+    "balance": 30000,
+    "mob": "5555555555",
+    "country": "Algeria",
+    "state": "Algiers",
+    "city": "Birkhadem",
+    "address": "AAA-56",
+    "occupation": "Police"
+  },
+  {
+    "username": "User6",
+    "pin": "6666",
+    "accountNumber": 8742050222,
+    "accountType": "savings",
+    "balance": 58000,
+    "mob": "6666666666",
+    "country": "India",
+    "state": "Rajasthan",
+    "city": "Chaksu",
+    "address": "CC-45",
+    "occupation": "Manager"
+  },
+  {
+    "username": "User7",
+    "pin": "7777",
+    "accountNumber": 1720792182,
+    "accountType": "savings",
+    "balance": 70000,
+    "mob": "7777777777",
+    "country": "Egypt",
+    "state": "Giza",
+    "city": "Giza",
+    "address": "GIZA Mummy2",
+    "occupation": "Gaurd Graveyard"
+  }
+]
